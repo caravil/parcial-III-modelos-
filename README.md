@@ -1,5 +1,4 @@
 # parcial-III-modelos-
 # carlos andres sanchez aviles 
-# 1017269745
 # a continuacion se encuentran los ejercicios propuestos para suplir el parcial III
 # referentes a k-means y rna
